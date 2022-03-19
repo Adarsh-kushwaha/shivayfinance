@@ -955,6 +955,14 @@ parallax & home seperator
   margin-bottom: 15px;
 }
 
+.mini .mini-content .mini-box i img {
+  width: 50px;
+  height: 50px;
+max-width: 100%;
+margin: auto;
+
+}
+
 .mini .mini-content .mini-box span {
   display: block;
   font-weight: 400;
