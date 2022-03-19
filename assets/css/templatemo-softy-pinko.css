@@ -1598,3 +1598,20 @@ preloader
     opacity: 0;
   }
 }
+
+
+.mobile{
+  display:flex;
+  flex-direction: row;
+  justify-content: end;
+}
+
+.mobile p{
+  background-color: #ff1979;
+  padding: 4px 14px;
+  margin: 4px;
+  border-radius: 15px;
+  color: #f2f2fe;
+  font-size: 16px;
+  font-weight: 700;
+}
