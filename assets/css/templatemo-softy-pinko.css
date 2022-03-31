@@ -117,12 +117,12 @@ body {
 }
 
 ::selection {
-  background: #ff589e;
+  background: #ff3a17;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #ff589e;
+  background: blue;
   color: #fff;
 }
 
@@ -318,7 +318,7 @@ a.main-button-slider {
   font-size: 13px;
   border-radius: 20px;
   padding: 12px 20px;
-  background-color: #ff589e;
+  background-color: rgb(73, 73, 253);
   text-transform: uppercase;
   color: #fff;
   letter-spacing: 0.25px;
@@ -347,7 +347,7 @@ a.main-button {
 }
 
 a.main-button:hover {
-  background-color: #ff589e;
+  background-color: blue;
 }
 
 button.main-button {
@@ -368,7 +368,7 @@ button.main-button {
 }
 
 button.main-button:hover {
-  background-color: #ff589e;
+  background-color: blue;
 }
 
 
@@ -452,7 +452,7 @@ header
 }
 
 .header-area .main-nav .nav li a:hover {
-  color: #ff589e;
+  color: blue;
 }
 
 .header-area .main-nav .menu-trigger {
@@ -564,7 +564,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #ff589e;
+  color: blue;
 }
 
 @media (max-width: 1200px) {
@@ -773,7 +773,7 @@ features
 }
 
 .features-small-item:hover .icon {
-  background-color: #ff589e;
+  background-color: blue;
 }
 
 .features-small-item .icon {
@@ -1187,7 +1187,7 @@ team
   display: block;
   font-weight: 400;
   font-size: 15px;
-  color: #ff589e;
+  color: blue;
   letter-spacing: 0.25px;
 }
 
@@ -1226,7 +1226,7 @@ pricing
 }
 
 .pricing-item.active .pricing-body .price-wrapper {
-  background-color: #ff589e;
+  background-color: blue;
 }
 
 .pricing-item.active .pricing-body .price-wrapper .currency {
@@ -1363,7 +1363,7 @@ blog
 }
 
 .blog-post-thumb h3 a:hover {
-  color: #ff589e;
+  color: blue;
 }
 
 .blog-post-thumb .text {
@@ -1486,7 +1486,7 @@ footer .social li a {
 }
 
 footer .social li a:hover {
-  background-color: #ff589e;
+  background-color: blue;
   color: #fff;
 }
 
